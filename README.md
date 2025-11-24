@@ -35,16 +35,26 @@ Search, filter, and visualize object detections across thousands of images effor
 
 ## 📦 2. Requirements (Install Before Running)
 
+
 Create a file named `requirements.txt` with:
 
+
 ultralytics
+
 streamlit
+
 opencv-python
+
 pyyaml
+
 torch
+
 torchvision
+
 pillow
+
 pandas
+
 numpy
 
 📦 Project_YOLO
