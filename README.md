@@ -141,4 +141,12 @@ If you found this useful, please ⭐ the repository on GitHub!
 **Clarissa K**  
 Developer — YOLO Image Search Engine  
 
+## Output images:
+
+
+<img width="1912" height="1022" alt="Screenshot 2025-11-23 232228" src="https://github.com/user-attachments/assets/87c88df7-ad33-457f-9d55-c7c215842112" />
+
+
+
+<img width="1910" height="1034" alt="Screenshot 2025-11-23 232239" src="https://github.com/user-attachments/assets/51ba6f05-0da8-4a02-b413-9354b7d5a040" />
 
